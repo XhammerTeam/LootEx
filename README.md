@@ -6,11 +6,13 @@ How To İnstall???
 1; Update Your Packages
 
 pkg update
+
 pkg upgrade
 
 2; Update Your Apt
 
 apt update
+
 apt upgrade
 
 3; İnstall Github
@@ -24,7 +26,9 @@ git clone https://github.com/XhammerTeam/LootEx
 5; Start The Setup
 
 cd LootEx
+
 chmod +x LootEx.sh
+
 bash LootEx.sh
 
 
