@@ -1,24 +1,60 @@
-# LootEx Version 1.0.0
+# LootEx Version 1.3.7
 # Made By Ew Ancient
 # License Of 2023
+# Update: On The Linux!
 
 # Please Share
 # OmletID = ew_ancient
 
 # Xhammer T.H.T Presents
 
+apt install termux
+apt install linux
+
 clear
 
 printf "\e[1;31m"
 
 printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
+printf "PLEASE TERMUX CHANGE REPO İN EUROPE!!!"
 
-sleep 3.0
+termux-change-repo
+linux-change-repo
+
+sleep 10.0
 
 clear
 
 chmod +x LootEx.sh
 termux-setup-storage -y
+linux-setup-storage -y
 pkg update -y
 pkg upgrade -y
 apt update -y
@@ -102,6 +138,24 @@ pkg install go3
 pkg install objective-c
 pkg install objective-c2
 pkg install objective-c3
+apt install objective-c
+apt install go
+apt install assembly
+apt install swift
+apt install ruby
+apt install typescript
+apt install c++
+apt install php
+apt install c
+apt install c#
+apt install python
+apt install shell
+apt install bash
+apt install cql
+apt install css
+apt install html
+apt install javascript
+apt install java
 
 clear
 
@@ -126,6 +180,19 @@ pkg install mp3
 pkg install mp4
 pkg install load
 pkg install accelerator
+apt install accelerator
+apt install load
+apt install mp4
+apt install mp3
+apt install jpg
+apt install tar
+apt install curl
+apt install unzip
+apt install zip
+apt install png
+apt install booster
+apt install speed
+apt install git
 
 clear
 
@@ -145,6 +212,14 @@ pkg install macos
 pkg install linux
 pkg install nethunter
 pkg install kali
+apt install kali
+apt install nethunter
+apt install linux
+apt install macos
+apt install windows
+apt install iphone
+apt install android
+apt install data
 
 clear
 
@@ -196,6 +271,7 @@ git clone https://github.com/illvart/termux-alpine
 git clone https://github.com/mishakorzik/Free-Proxy
 git clone https://github.com/TrollSkull/BashTube
 git clone https://github.com/rubikproxy/rubikphish
+git clone https://github.com/nmap/nmap
 
 clear
 
@@ -210,7 +286,8 @@ printf "Done, I've Installed All Packages Take Care \n"
 printf "\e[1;31m"
 
 printf "\n Made By Ew Ancient"
-printf "\n Version Of 1.0.0"
+printf "\n Version Of 1.3.7"
+printf "\n Update : On The Linux!"
 printf "\n License Of 2023"
 printf "\n Please Share "
 printf "\n OmletID = ew_ancient \n"
