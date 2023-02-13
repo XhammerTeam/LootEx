@@ -297,5 +297,4 @@ printf "\e[1;33m"
 printf "\n Xhammer T.H.T Presents \n"
 
 sleep 10.0
-
 exit
