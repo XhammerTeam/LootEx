@@ -9,6 +9,7 @@
 
 orgen92() {
 pkg install figlet
+apt install figlet
 }
 
 banner() {
@@ -203,7 +204,6 @@ git clone https://github.com/mohinparamasivam/Email_Bomber.git
 git clone https://github.com/s0md3v/Hash-Buster.git
 git clone https://github.com/ciku370/hasher
 git clone https://github.com/KasRoudra/CamHacker
-git clone https://github.com/XhammerTeam/TextOk
 git clone https://github.com/Err0r-ICA/Games
 git clone https://github.com/h4ck3r0/Termux-os
 git clone https://github.com/Yashvendra/Recon-X
